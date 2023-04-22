@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8baf3095fb9d59347b0326a206b4705d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - color: {instanceID: 0}
+  - renderers: {instanceID: 0}
+  - GroundBrick: {fileID: 4851810068054774875, guid: ccbf054d7d268204bbe5d5bb75118647, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
